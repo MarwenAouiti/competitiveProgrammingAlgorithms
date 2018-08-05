@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 /**
+    backtrakingAlgorithms(Permute a string)
     Pseudocode :
             fonction permute(s):
                 if s is an empty string :
